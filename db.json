@@ -1,0 +1,1535 @@
+{
+    "items": [
+        {
+            "id" : "459547bc-9ed0-422c-961a-3645f82870161",
+            "globalType" : "item",
+            "organizationId" : "459547bc-9ed0-422c-961a-3645f8287016",
+            "props": {
+                "type": "Мебель",
+                "subtype": "Стол",
+                "subtypeProp": "Конференц",
+                "status": "заказ/производство",
+                "location": {
+                    "id" : "aa3b2efd-bc56-4725-b397-9e8249bebf5a",
+                    "globalType" : "location",
+                    "organizationId" : "a6667976-bafe-4ba3-96ee-2c897648c593",
+                    "props": {
+                        "country": "Украина",
+                        "city": "Киев",
+                        "street": "Могилевского",
+                        "number":"26/20",
+                        "building":"1",
+                        "level":"5",
+                        "office":"507",
+                        "phone":"0671325434"
+                    }
+                },
+                "renter": {
+                    "id" : "07451bc0-a4e0-4e09-9cc6-4c4027789c8e",
+                    "globalType" : "renter",
+                    "organizationId" : "13bdf4f3-d407-49ef-9d24-da6c289d68c5",
+                    "props": {
+                        "company": "Фокстрот",
+                        "responsible": "Артем Могилевский",
+                        "fullName": "Артем Павлович Могилевский",
+                        "email":"artem@foxtrot.com",
+                        "phone":"0671325434"
+                    }
+                },
+                "comments": "Стол сильно подпорчен"
+            }
+        },
+        {
+            "id" : "459547bc-9ed0-422c-961a-3645f82870162",
+            "globalType" : "item",
+            "organizationId" : "459547bc-9ed0-422c-961a-3645f8287016",
+            "props": {
+                "type": "Мебель",
+                "subtype": "Стол",
+                "subtypeProp": "Конференц",
+                "status": "заказ/производство",
+                "location": {
+                    "id" : "aa3b2efd-bc56-4725-b397-9e8249bebf5a",
+                    "globalType" : "location",
+                    "organizationId" : "a6667976-bafe-4ba3-96ee-2c897648c593",
+                    "props": {
+                        "country": "Украина",
+                        "city": "Киев",
+                        "street": "Могилевского",
+                        "number":"26/20",
+                        "building":"1",
+                        "level":"5",
+                        "office":"507",
+                        "phone":"0671325434"
+                    }
+                },
+                "renter": {
+                    "id" : "07451bc0-a4e0-4e09-9cc6-4c4027789c8e",
+                    "globalType" : "renter",
+                    "organizationId" : "13bdf4f3-d407-49ef-9d24-da6c289d68c5",
+                    "props": {
+                        "company": "Фокстрот",
+                        "responsible": "Артем Могилевский",
+                        "fullName": "Артем Павлович Могилевский",
+                        "email":"artem@foxtrot.com",
+                        "phone":"0671325434"
+                    }
+                },
+                "comments": "Стол сильно подпорчен"
+            }
+        },
+        {
+            "id" : "459547bc-9ed0-422c-961a-3645f82870163",
+            "globalType" : "item",
+            "organizationId" : "459547bc-9ed0-422c-961a-3645f8287016",
+            "props": {
+                "type": "Мебель",
+                "subtype": "Стол",
+                "subtypeProp": "Конференц",
+                "status": "заказ/производство",
+                "location": {
+                    "id" : "aa3b2efd-bc56-4725-b397-9e8249bebf5a",
+                    "globalType" : "location",
+                    "organizationId" : "a6667976-bafe-4ba3-96ee-2c897648c593",
+                    "props": {
+                        "country": "Украина",
+                        "city": "Киев",
+                        "street": "Могилевского",
+                        "number":"26/20",
+                        "building":"1",
+                        "level":"5",
+                        "office":"507",
+                        "phone":"0671325434"
+                    }
+                },
+                "renter": {
+                    "id" : "07451bc0-a4e0-4e09-9cc6-4c4027789c8e",
+                    "globalType" : "renter",
+                    "organizationId" : "13bdf4f3-d407-49ef-9d24-da6c289d68c5",
+                    "props": {
+                        "company": "Фокстрот",
+                        "responsible": "Артем Могилевский",
+                        "fullName": "Артем Павлович Могилевский",
+                        "email":"artem@foxtrot.com",
+                        "phone":"0671325434"
+                    }
+                },
+                "comments": "Стол сильно подпорчен"
+            }
+        },
+        {
+            "id" : "459547bc-9ed0-422c-961a-3645f82870164",
+            "globalType" : "item",
+            "organizationId" : "459547bc-9ed0-422c-961a-3645f8287016",
+            "props": {
+                "type": "Мебель",
+                "subtype": "Стол",
+                "subtypeProp": "Конференц",
+                "status": "заказ/производство",
+                "location": {
+                    "id" : "aa3b2efd-bc56-4725-b397-9e8249bebf5a",
+                    "globalType" : "location",
+                    "organizationId" : "a6667976-bafe-4ba3-96ee-2c897648c593",
+                    "props": {
+                        "country": "Украина",
+                        "city": "Киев",
+                        "street": "Могилевского",
+                        "number":"26/20",
+                        "building":"1",
+                        "level":"5",
+                        "office":"507",
+                        "phone":"0671325434"
+                    }
+                },
+                "renter": {
+                    "id" : "07451bc0-a4e0-4e09-9cc6-4c4027789c8e",
+                    "globalType" : "renter",
+                    "organizationId" : "13bdf4f3-d407-49ef-9d24-da6c289d68c5",
+                    "props": {
+                        "company": "Фокстрот",
+                        "responsible": "Артем Могилевский",
+                        "fullName": "Артем Павлович Могилевский",
+                        "email":"artem@foxtrot.com",
+                        "phone":"0671325434"
+                    }
+                },
+                "comments": "Стол сильно подпорчен"
+            }
+        },
+        {
+            "id" : "459547bc-9ed0-422c-961a-3645f82870165",
+            "globalType" : "item",
+            "organizationId" : "459547bc-9ed0-422c-961a-3645f8287016",
+            "props": {
+                "type": "Мебель",
+                "subtype": "Стол",
+                "subtypeProp": "Конференц",
+                "status": "заказ/производство",
+                "location": {
+                    "id" : "aa3b2efd-bc56-4725-b397-9e8249bebf5a",
+                    "globalType" : "location",
+                    "organizationId" : "a6667976-bafe-4ba3-96ee-2c897648c593",
+                    "props": {
+                        "country": "Украина",
+                        "city": "Киев",
+                        "street": "Могилевского",
+                        "number":"26/20",
+                        "building":"1",
+                        "level":"5",
+                        "office":"507",
+                        "phone":"0671325434"
+                    }
+                },
+                "renter": {
+                    "id" : "07451bc0-a4e0-4e09-9cc6-4c4027789c8e",
+                    "globalType" : "renter",
+                    "organizationId" : "13bdf4f3-d407-49ef-9d24-da6c289d68c5",
+                    "props": {
+                        "company": "Фокстрот",
+                        "responsible": "Артем Могилевский",
+                        "fullName": "Артем Павлович Могилевский",
+                        "email":"artem@foxtrot.com",
+                        "phone":"0671325434"
+                    }
+                },
+                "comments": "Стол сильно подпорчен"
+            }
+        },
+        {
+            "id" : "459547bc-9ed0-422c-961a-3645f82870166",
+            "globalType" : "item",
+            "organizationId" : "459547bc-9ed0-422c-961a-3645f8287016",
+            "props": {
+                "type": "Мебель",
+                "subtype": "Стол",
+                "subtypeProp": "Конференц",
+                "status": "заказ/производство",
+                "location": {
+                    "id" : "aa3b2efd-bc56-4725-b397-9e8249bebf5a",
+                    "globalType" : "location",
+                    "organizationId" : "a6667976-bafe-4ba3-96ee-2c897648c593",
+                    "props": {
+                        "country": "Украина",
+                        "city": "Киев",
+                        "street": "Могилевского",
+                        "number":"26/20",
+                        "building":"1",
+                        "level":"5",
+                        "office":"507",
+                        "phone":"0671325434"
+                    }
+                },
+                "renter": {
+                    "id" : "07451bc0-a4e0-4e09-9cc6-4c4027789c8e",
+                    "globalType" : "renter",
+                    "organizationId" : "13bdf4f3-d407-49ef-9d24-da6c289d68c5",
+                    "props": {
+                        "company": "Фокстрот",
+                        "responsible": "Артем Могилевский",
+                        "fullName": "Артем Павлович Могилевский",
+                        "email":"artem@foxtrot.com",
+                        "phone":"0671325434"
+                    }
+                },
+                "comments": "Стол сильно подпорчен"
+            }
+        },
+        {
+            "id" : "459547bc-9ed0-422c-961a-3645f82870167",
+            "globalType" : "item",
+            "organizationId" : "459547bc-9ed0-422c-961a-3645f8287016",
+            "props": {
+                "type": "Мебель",
+                "subtype": "Стол",
+                "subtypeProp": "Конференц",
+                "status": "заказ/производство",
+                "location": {
+                    "id" : "aa3b2efd-bc56-4725-b397-9e8249bebf5a",
+                    "globalType" : "location",
+                    "organizationId" : "a6667976-bafe-4ba3-96ee-2c897648c593",
+                    "props": {
+                        "country": "Украина",
+                        "city": "Киев",
+                        "street": "Могилевского",
+                        "number":"26/20",
+                        "building":"1",
+                        "level":"5",
+                        "office":"507",
+                        "phone":"0671325434"
+                    }
+                },
+                "renter": {
+                    "id" : "07451bc0-a4e0-4e09-9cc6-4c4027789c8e",
+                    "globalType" : "renter",
+                    "organizationId" : "13bdf4f3-d407-49ef-9d24-da6c289d68c5",
+                    "props": {
+                        "company": "Фокстрот",
+                        "responsible": "Артем Могилевский",
+                        "fullName": "Артем Павлович Могилевский",
+                        "email":"artem@foxtrot.com",
+                        "phone":"0671325434"
+                    }
+                },
+                "comments": "Стол сильно подпорчен"
+            }
+        },
+        {
+            "id" : "459547bc-9ed0-422c-961a-3645f82870168",
+            "globalType" : "item",
+            "organizationId" : "459547bc-9ed0-422c-961a-3645f8287016",
+            "props": {
+                "type": "Мебель",
+                "subtype": "Стол",
+                "subtypeProp": "Конференц",
+                "status": "заказ/производство",
+                "location": {
+                    "id" : "aa3b2efd-bc56-4725-b397-9e8249bebf5a",
+                    "globalType" : "location",
+                    "organizationId" : "a6667976-bafe-4ba3-96ee-2c897648c593",
+                    "props": {
+                        "country": "Украина",
+                        "city": "Киев",
+                        "street": "Могилевского",
+                        "number":"26/20",
+                        "building":"1",
+                        "level":"5",
+                        "office":"507",
+                        "phone":"0671325434"
+                    }
+                },
+                "renter": {
+                    "id" : "07451bc0-a4e0-4e09-9cc6-4c4027789c8e",
+                    "globalType" : "renter",
+                    "organizationId" : "13bdf4f3-d407-49ef-9d24-da6c289d68c5",
+                    "props": {
+                        "company": "Фокстрот",
+                        "responsible": "Артем Могилевский",
+                        "fullName": "Артем Павлович Могилевский",
+                        "email":"artem@foxtrot.com",
+                        "phone":"0671325434"
+                    }
+                },
+                "comments": "Стол сильно подпорчен"
+            }
+        },
+        {
+            "id" : "459547bc-9ed0-422c-961a-3645f82870169",
+            "globalType" : "item",
+            "organizationId" : "459547bc-9ed0-422c-961a-3645f8287016",
+            "props": {
+                "type": "Мебель",
+                "subtype": "Стол",
+                "subtypeProp": "Конференц",
+                "status": "заказ/производство",
+                "location": {
+                    "id" : "aa3b2efd-bc56-4725-b397-9e8249bebf5a",
+                    "globalType" : "location",
+                    "organizationId" : "a6667976-bafe-4ba3-96ee-2c897648c593",
+                    "props": {
+                        "country": "Украина",
+                        "city": "Киев",
+                        "street": "Могилевского",
+                        "number":"26/20",
+                        "building":"1",
+                        "level":"5",
+                        "office":"507",
+                        "phone":"0671325434"
+                    }
+                },
+                "renter": {
+                    "id" : "07451bc0-a4e0-4e09-9cc6-4c4027789c8e",
+                    "globalType" : "renter",
+                    "organizationId" : "13bdf4f3-d407-49ef-9d24-da6c289d68c5",
+                    "props": {
+                        "company": "Фокстрот",
+                        "responsible": "Артем Могилевский",
+                        "fullName": "Артем Павлович Могилевский",
+                        "email":"artem@foxtrot.com",
+                        "phone":"0671325434"
+                    }
+                },
+                "comments": "Стол сильно подпорчен"
+            }
+        },
+        {
+            "id" : "459547bc-9ed0-422c-961a-3645f828701610",
+            "globalType" : "item",
+            "organizationId" : "459547bc-9ed0-422c-961a-3645f8287016",
+            "props": {
+                "type": "Мебель",
+                "subtype": "Стол",
+                "subtypeProp": "Конференц",
+                "status": "заказ/производство",
+                "location": {
+                    "id" : "aa3b2efd-bc56-4725-b397-9e8249bebf5a",
+                    "globalType" : "location",
+                    "organizationId" : "a6667976-bafe-4ba3-96ee-2c897648c593",
+                    "props": {
+                        "country": "Украина",
+                        "city": "Киев",
+                        "street": "Могилевского",
+                        "number":"26/20",
+                        "building":"1",
+                        "level":"5",
+                        "office":"507",
+                        "phone":"0671325434"
+                    }
+                },
+                "renter": {
+                    "id" : "07451bc0-a4e0-4e09-9cc6-4c4027789c8e",
+                    "globalType" : "renter",
+                    "organizationId" : "13bdf4f3-d407-49ef-9d24-da6c289d68c5",
+                    "props": {
+                        "company": "Фокстрот",
+                        "responsible": "Артем Могилевский",
+                        "fullName": "Артем Павлович Могилевский",
+                        "email":"artem@foxtrot.com",
+                        "phone":"0671325434"
+                    }
+                },
+                "comments": "Стол сильно подпорчен"
+            }
+        },
+        {
+            "id" : "459547bc-9ed0-422c-961a-3645f828701611",
+            "globalType" : "item",
+            "organizationId" : "459547bc-9ed0-422c-961a-3645f8287016",
+            "props": {
+                "type": "Мебель",
+                "subtype": "Стол",
+                "subtypeProp": "Конференц",
+                "status": "заказ/производство",
+                "location": {
+                    "id" : "aa3b2efd-bc56-4725-b397-9e8249bebf5a",
+                    "globalType" : "location",
+                    "organizationId" : "a6667976-bafe-4ba3-96ee-2c897648c593",
+                    "props": {
+                        "country": "Украина",
+                        "city": "Киев",
+                        "street": "Могилевского",
+                        "number":"26/20",
+                        "building":"1",
+                        "level":"5",
+                        "office":"507",
+                        "phone":"0671325434"
+                    }
+                },
+                "renter": {
+                    "id" : "07451bc0-a4e0-4e09-9cc6-4c4027789c8e",
+                    "globalType" : "renter",
+                    "organizationId" : "13bdf4f3-d407-49ef-9d24-da6c289d68c5",
+                    "props": {
+                        "company": "Фокстрот",
+                        "responsible": "Артем Могилевский",
+                        "fullName": "Артем Павлович Могилевский",
+                        "email":"artem@foxtrot.com",
+                        "phone":"0671325434"
+                    }
+                },
+                "comments": "Стол сильно подпорчен"
+            }
+        },
+        {
+            "id" : "459547bc-9ed0-422c-961a-3645f828701612",
+            "globalType" : "item",
+            "organizationId" : "459547bc-9ed0-422c-961a-3645f8287016",
+            "props": {
+                "type": "Мебель",
+                "subtype": "Стол",
+                "subtypeProp": "Конференц",
+                "status": "заказ/производство",
+                "location": {
+                    "id" : "aa3b2efd-bc56-4725-b397-9e8249bebf5a",
+                    "globalType" : "location",
+                    "organizationId" : "a6667976-bafe-4ba3-96ee-2c897648c593",
+                    "props": {
+                        "country": "Украина",
+                        "city": "Киев",
+                        "street": "Могилевского",
+                        "number":"26/20",
+                        "building":"1",
+                        "level":"5",
+                        "office":"507",
+                        "phone":"0671325434"
+                    }
+                },
+                "renter": {
+                    "id" : "07451bc0-a4e0-4e09-9cc6-4c4027789c8e",
+                    "globalType" : "renter",
+                    "organizationId" : "13bdf4f3-d407-49ef-9d24-da6c289d68c5",
+                    "props": {
+                        "company": "Фокстрот",
+                        "responsible": "Артем Могилевский",
+                        "fullName": "Артем Павлович Могилевский",
+                        "email":"artem@foxtrot.com",
+                        "phone":"0671325434"
+                    }
+                },
+                "comments": "Стол сильно подпорчен"
+            }
+        },
+        {
+            "id" : "459547bc-9ed0-422c-961a-3645f828701613",
+            "globalType" : "item",
+            "organizationId" : "459547bc-9ed0-422c-961a-3645f8287016",
+            "props": {
+                "type": "Мебель",
+                "subtype": "Стол",
+                "subtypeProp": "Конференц",
+                "status": "заказ/производство",
+                "location": {
+                    "id" : "aa3b2efd-bc56-4725-b397-9e8249bebf5a",
+                    "globalType" : "location",
+                    "organizationId" : "a6667976-bafe-4ba3-96ee-2c897648c593",
+                    "props": {
+                        "country": "Украина",
+                        "city": "Киев",
+                        "street": "Могилевского",
+                        "number":"26/20",
+                        "building":"1",
+                        "level":"5",
+                        "office":"507",
+                        "phone":"0671325434"
+                    }
+                },
+                "renter": {
+                    "id" : "07451bc0-a4e0-4e09-9cc6-4c4027789c8e",
+                    "globalType" : "renter",
+                    "organizationId" : "13bdf4f3-d407-49ef-9d24-da6c289d68c5",
+                    "props": {
+                        "company": "Фокстрот",
+                        "responsible": "Артем Могилевский",
+                        "fullName": "Артем Павлович Могилевский",
+                        "email":"artem@foxtrot.com",
+                        "phone":"0671325434"
+                    }
+                },
+                "comments": "Стол сильно подпорчен"
+            }
+        },
+        {
+            "id" : "459547bc-9ed0-422c-961a-3645f828701614",
+            "globalType" : "item",
+            "organizationId" : "459547bc-9ed0-422c-961a-3645f8287016",
+            "props": {
+                "type": "Мебель",
+                "subtype": "Стол",
+                "subtypeProp": "Конференц",
+                "status": "заказ/производство",
+                "location": {
+                    "id" : "aa3b2efd-bc56-4725-b397-9e8249bebf5a",
+                    "globalType" : "location",
+                    "organizationId" : "a6667976-bafe-4ba3-96ee-2c897648c593",
+                    "props": {
+                        "country": "Украина",
+                        "city": "Киев",
+                        "street": "Могилевского",
+                        "number":"26/20",
+                        "building":"1",
+                        "level":"5",
+                        "office":"507",
+                        "phone":"0671325434"
+                    }
+                },
+                "renter": {
+                    "id" : "07451bc0-a4e0-4e09-9cc6-4c4027789c8e",
+                    "globalType" : "renter",
+                    "organizationId" : "13bdf4f3-d407-49ef-9d24-da6c289d68c5",
+                    "props": {
+                        "company": "Фокстрот",
+                        "responsible": "Артем Могилевский",
+                        "fullName": "Артем Павлович Могилевский",
+                        "email":"artem@foxtrot.com",
+                        "phone":"0671325434"
+                    }
+                },
+                "comments": "Стол сильно подпорчен"
+            }
+        },
+        {
+            "id" : "459547bc-9ed0-422c-961a-3645f828701615",
+            "globalType" : "item",
+            "organizationId" : "459547bc-9ed0-422c-961a-3645f8287016",
+            "props": {
+                "type": "Мебель",
+                "subtype": "Стол",
+                "subtypeProp": "Конференц",
+                "status": "заказ/производство",
+                "location": {
+                    "id" : "aa3b2efd-bc56-4725-b397-9e8249bebf5a",
+                    "globalType" : "location",
+                    "organizationId" : "a6667976-bafe-4ba3-96ee-2c897648c593",
+                    "props": {
+                        "country": "Украина",
+                        "city": "Киев",
+                        "street": "Могилевского",
+                        "number":"26/20",
+                        "building":"1",
+                        "level":"5",
+                        "office":"507",
+                        "phone":"0671325434"
+                    }
+                },
+                "renter": {
+                    "id" : "07451bc0-a4e0-4e09-9cc6-4c4027789c8e",
+                    "globalType" : "renter",
+                    "organizationId" : "13bdf4f3-d407-49ef-9d24-da6c289d68c5",
+                    "props": {
+                        "company": "Фокстрот",
+                        "responsible": "Артем Могилевский",
+                        "fullName": "Артем Павлович Могилевский",
+                        "email":"artem@foxtrot.com",
+                        "phone":"0671325434"
+                    }
+                },
+                "comments": "Стол сильно подпорчен"
+            }
+        },
+        {
+            "id" : "459547bc-9ed0-422c-961a-3645f828701616",
+            "globalType" : "item",
+            "organizationId" : "459547bc-9ed0-422c-961a-3645f8287016",
+            "props": {
+                "type": "Мебель",
+                "subtype": "Стол",
+                "subtypeProp": "Конференц",
+                "status": "заказ/производство",
+                "location": {
+                    "id" : "aa3b2efd-bc56-4725-b397-9e8249bebf5a",
+                    "globalType" : "location",
+                    "organizationId" : "a6667976-bafe-4ba3-96ee-2c897648c593",
+                    "props": {
+                        "country": "Украина",
+                        "city": "Киев",
+                        "street": "Могилевского",
+                        "number":"26/20",
+                        "building":"1",
+                        "level":"5",
+                        "office":"507",
+                        "phone":"0671325434"
+                    }
+                },
+                "renter": {
+                    "id" : "07451bc0-a4e0-4e09-9cc6-4c4027789c8e",
+                    "globalType" : "renter",
+                    "organizationId" : "13bdf4f3-d407-49ef-9d24-da6c289d68c5",
+                    "props": {
+                        "company": "Фокстрот",
+                        "responsible": "Артем Могилевский",
+                        "fullName": "Артем Павлович Могилевский",
+                        "email":"artem@foxtrot.com",
+                        "phone":"0671325434"
+                    }
+                },
+                "comments": "Стол сильно подпорчен"
+            }
+        },
+        {
+            "id" : "459547bc-9ed0-422c-961a-3645f828701617",
+            "globalType" : "item",
+            "organizationId" : "459547bc-9ed0-422c-961a-3645f8287016",
+            "props": {
+                "type": "Мебель",
+                "subtype": "Стол",
+                "subtypeProp": "Конференц",
+                "status": "заказ/производство",
+                "location": {
+                    "id" : "aa3b2efd-bc56-4725-b397-9e8249bebf5a",
+                    "globalType" : "location",
+                    "organizationId" : "a6667976-bafe-4ba3-96ee-2c897648c593",
+                    "props": {
+                        "country": "Украина",
+                        "city": "Киев",
+                        "street": "Могилевского",
+                        "number":"26/20",
+                        "building":"1",
+                        "level":"5",
+                        "office":"507",
+                        "phone":"0671325434"
+                    }
+                },
+                "renter": {
+                    "id" : "07451bc0-a4e0-4e09-9cc6-4c4027789c8e",
+                    "globalType" : "renter",
+                    "organizationId" : "13bdf4f3-d407-49ef-9d24-da6c289d68c5",
+                    "props": {
+                        "company": "Фокстрот",
+                        "responsible": "Артем Могилевский",
+                        "fullName": "Артем Павлович Могилевский",
+                        "email":"artem@foxtrot.com",
+                        "phone":"0671325434"
+                    }
+                },
+                "comments": "Стол сильно подпорчен"
+            }
+        },
+        {
+            "id" : "459547bc-9ed0-422c-961a-3645f828701618",
+            "globalType" : "item",
+            "organizationId" : "459547bc-9ed0-422c-961a-3645f8287016",
+            "props": {
+                "type": "Мебель",
+                "subtype": "Стол",
+                "subtypeProp": "Конференц",
+                "status": "заказ/производство",
+                "location": {
+                    "id" : "aa3b2efd-bc56-4725-b397-9e8249bebf5a",
+                    "globalType" : "location",
+                    "organizationId" : "a6667976-bafe-4ba3-96ee-2c897648c593",
+                    "props": {
+                        "country": "Украина",
+                        "city": "Киев",
+                        "street": "Могилевского",
+                        "number":"26/20",
+                        "building":"1",
+                        "level":"5",
+                        "office":"507",
+                        "phone":"0671325434"
+                    }
+                },
+                "renter": {
+                    "id" : "07451bc0-a4e0-4e09-9cc6-4c4027789c8e",
+                    "globalType" : "renter",
+                    "organizationId" : "13bdf4f3-d407-49ef-9d24-da6c289d68c5",
+                    "props": {
+                        "company": "Фокстрот",
+                        "responsible": "Артем Могилевский",
+                        "fullName": "Артем Павлович Могилевский",
+                        "email":"artem@foxtrot.com",
+                        "phone":"0671325434"
+                    }
+                },
+                "comments": "Стол сильно подпорчен"
+            }
+        },
+        {
+            "id" : "459547bc-9ed0-422c-961a-3645f828701619",
+            "globalType" : "item",
+            "organizationId" : "459547bc-9ed0-422c-961a-3645f8287016",
+            "props": {
+                "type": "Мебель",
+                "subtype": "Стол",
+                "subtypeProp": "Конференц",
+                "status": "заказ/производство",
+                "location": {
+                    "id" : "aa3b2efd-bc56-4725-b397-9e8249bebf5a",
+                    "globalType" : "location",
+                    "organizationId" : "a6667976-bafe-4ba3-96ee-2c897648c593",
+                    "props": {
+                        "country": "Украина",
+                        "city": "Киев",
+                        "street": "Могилевского",
+                        "number":"26/20",
+                        "building":"1",
+                        "level":"5",
+                        "office":"507",
+                        "phone":"0671325434"
+                    }
+                },
+                "renter": {
+                    "id" : "07451bc0-a4e0-4e09-9cc6-4c4027789c8e",
+                    "globalType" : "renter",
+                    "organizationId" : "13bdf4f3-d407-49ef-9d24-da6c289d68c5",
+                    "props": {
+                        "company": "Фокстрот",
+                        "responsible": "Артем Могилевский",
+                        "fullName": "Артем Павлович Могилевский",
+                        "email":"artem@foxtrot.com",
+                        "phone":"0671325434"
+                    }
+                },
+                "comments": "Стол сильно подпорчен"
+            }
+        },
+        {
+            "id" : "459547bc-9ed0-422c-961a-3645f828701620",
+            "globalType" : "item",
+            "organizationId" : "459547bc-9ed0-422c-961a-3645f8287016",
+            "props": {
+                "type": "Мебель",
+                "subtype": "Стол",
+                "subtypeProp": "Конференц",
+                "status": "заказ/производство",
+                "location": {
+                    "id" : "aa3b2efd-bc56-4725-b397-9e8249bebf5a",
+                    "globalType" : "location",
+                    "organizationId" : "a6667976-bafe-4ba3-96ee-2c897648c593",
+                    "props": {
+                        "country": "Украина",
+                        "city": "Киев",
+                        "street": "Могилевского",
+                        "number":"26/20",
+                        "building":"1",
+                        "level":"5",
+                        "office":"507",
+                        "phone":"0671325434"
+                    }
+                },
+                "renter": {
+                    "id" : "07451bc0-a4e0-4e09-9cc6-4c4027789c8e",
+                    "globalType" : "renter",
+                    "organizationId" : "13bdf4f3-d407-49ef-9d24-da6c289d68c5",
+                    "props": {
+                        "company": "Фокстрот",
+                        "responsible": "Артем Могилевский",
+                        "fullName": "Артем Павлович Могилевский",
+                        "email":"artem@foxtrot.com",
+                        "phone":"0671325434"
+                    }
+                },
+                "comments": "Стол сильно подпорчен"
+            }
+        },
+        {
+            "id" : "459547bc-9ed0-422c-961a-3645f828701621",
+            "globalType" : "item",
+            "organizationId" : "459547bc-9ed0-422c-961a-3645f8287016",
+            "props": {
+                "type": "Мебель",
+                "subtype": "Стол",
+                "subtypeProp": "Конференц",
+                "status": "заказ/производство",
+                "location": {
+                    "id" : "aa3b2efd-bc56-4725-b397-9e8249bebf5a",
+                    "globalType" : "location",
+                    "organizationId" : "a6667976-bafe-4ba3-96ee-2c897648c593",
+                    "props": {
+                        "country": "Украина",
+                        "city": "Киев",
+                        "street": "Могилевского",
+                        "number":"26/20",
+                        "building":"1",
+                        "level":"5",
+                        "office":"507",
+                        "phone":"0671325434"
+                    }
+                },
+                "renter": {
+                    "id" : "07451bc0-a4e0-4e09-9cc6-4c4027789c8e",
+                    "globalType" : "renter",
+                    "organizationId" : "13bdf4f3-d407-49ef-9d24-da6c289d68c5",
+                    "props": {
+                        "company": "Фокстрот",
+                        "responsible": "Артем Могилевский",
+                        "fullName": "Артем Павлович Могилевский",
+                        "email":"artem@foxtrot.com",
+                        "phone":"0671325434"
+                    }
+                },
+                "comments": "Стол сильно подпорчен"
+            }
+        },    {
+            "id" : "459547bc-9ed0-422c-961a-3645f828701622",
+            "globalType" : "item",
+            "organizationId" : "459547bc-9ed0-422c-961a-3645f8287016",
+            "props": {
+                "type": "Мебель",
+                "subtype": "Стол",
+                "subtypeProp": "Конференц",
+                "status": "заказ/производство",
+                "location": {
+                    "id" : "aa3b2efd-bc56-4725-b397-9e8249bebf5a",
+                    "globalType" : "location",
+                    "organizationId" : "a6667976-bafe-4ba3-96ee-2c897648c593",
+                    "props": {
+                        "country": "Украина",
+                        "city": "Киев",
+                        "street": "Могилевского",
+                        "number":"26/20",
+                        "building":"1",
+                        "level":"5",
+                        "office":"507",
+                        "phone":"0671325434"
+                    }
+                },
+                "renter": {
+                    "id" : "07451bc0-a4e0-4e09-9cc6-4c4027789c8e",
+                    "globalType" : "renter",
+                    "organizationId" : "13bdf4f3-d407-49ef-9d24-da6c289d68c5",
+                    "props": {
+                        "company": "Фокстрот",
+                        "responsible": "Артем Могилевский",
+                        "fullName": "Артем Павлович Могилевский",
+                        "email":"artem@foxtrot.com",
+                        "phone":"0671325434"
+                    }
+                },
+                "comments": "Стол сильно подпорчен"
+            }
+        },
+        {
+            "id" : "459547bc-9ed0-422c-961a-3645f828701623",
+            "globalType" : "item",
+            "organizationId" : "459547bc-9ed0-422c-961a-3645f8287016",
+            "props": {
+                "type": "Мебель",
+                "subtype": "Стол",
+                "subtypeProp": "Конференц",
+                "status": "заказ/производство",
+                "location": {
+                    "id" : "aa3b2efd-bc56-4725-b397-9e8249bebf5a",
+                    "globalType" : "location",
+                    "organizationId" : "a6667976-bafe-4ba3-96ee-2c897648c593",
+                    "props": {
+                        "country": "Украина",
+                        "city": "Киев",
+                        "street": "Могилевского",
+                        "number":"26/20",
+                        "building":"1",
+                        "level":"5",
+                        "office":"507",
+                        "phone":"0671325434"
+                    }
+                },
+                "renter": {
+                    "id" : "07451bc0-a4e0-4e09-9cc6-4c4027789c8e",
+                    "globalType" : "renter",
+                    "organizationId" : "13bdf4f3-d407-49ef-9d24-da6c289d68c5",
+                    "props": {
+                        "company": "Фокстрот",
+                        "responsible": "Артем Могилевский",
+                        "fullName": "Артем Павлович Могилевский",
+                        "email":"artem@foxtrot.com",
+                        "phone":"0671325434"
+                    }
+                },
+                "comments": "Стол сильно подпорчен"
+            }
+        },
+        {
+            "id" : "459547bc-9ed0-422c-961a-3645f828701624",
+            "globalType" : "item",
+            "organizationId" : "459547bc-9ed0-422c-961a-3645f8287016",
+            "props": {
+                "type": "Мебель",
+                "subtype": "Стол",
+                "subtypeProp": "Конференц",
+                "status": "заказ/производство",
+                "location": {
+                    "id" : "aa3b2efd-bc56-4725-b397-9e8249bebf5a",
+                    "globalType" : "location",
+                    "organizationId" : "a6667976-bafe-4ba3-96ee-2c897648c593",
+                    "props": {
+                        "country": "Украина",
+                        "city": "Киев",
+                        "street": "Могилевского",
+                        "number":"26/20",
+                        "building":"1",
+                        "level":"5",
+                        "office":"507",
+                        "phone":"0671325434"
+                    }
+                },
+                "renter": {
+                    "id" : "07451bc0-a4e0-4e09-9cc6-4c4027789c8e",
+                    "globalType" : "renter",
+                    "organizationId" : "13bdf4f3-d407-49ef-9d24-da6c289d68c5",
+                    "props": {
+                        "company": "Фокстрот",
+                        "responsible": "Артем Могилевский",
+                        "fullName": "Артем Павлович Могилевский",
+                        "email":"artem@foxtrot.com",
+                        "phone":"0671325434"
+                    }
+                },
+                "comments": "Стол сильно подпорчен"
+            }
+        },
+        {
+            "id" : "459547bc-9ed0-422c-961a-3645f828701625",
+            "globalType" : "item",
+            "organizationId" : "459547bc-9ed0-422c-961a-3645f8287016",
+            "props": {
+                "type": "Мебель",
+                "subtype": "Стол",
+                "subtypeProp": "Конференц",
+                "status": "заказ/производство",
+                "location": {
+                    "id" : "aa3b2efd-bc56-4725-b397-9e8249bebf5a",
+                    "globalType" : "location",
+                    "organizationId" : "a6667976-bafe-4ba3-96ee-2c897648c593",
+                    "props": {
+                        "country": "Украина",
+                        "city": "Киев",
+                        "street": "Могилевского",
+                        "number":"26/20",
+                        "building":"1",
+                        "level":"5",
+                        "office":"507",
+                        "phone":"0671325434"
+                    }
+                },
+                "renter": {
+                    "id" : "07451bc0-a4e0-4e09-9cc6-4c4027789c8e",
+                    "globalType" : "renter",
+                    "organizationId" : "13bdf4f3-d407-49ef-9d24-da6c289d68c5",
+                    "props": {
+                        "company": "Фокстрот",
+                        "responsible": "Артем Могилевский",
+                        "fullName": "Артем Павлович Могилевский",
+                        "email":"artem@foxtrot.com",
+                        "phone":"0671325434"
+                    }
+                },
+                "comments": "Стол сильно подпорчен"
+            }
+        }
+    ],
+    "locations": [
+        {
+            "id" : "aa3b2efd-bc56-4725-b397-9e8249bebf5a1",
+            "globalType" : "location",
+            "organizationId" : "a6667976-bafe-4ba3-96ee-2c897648c593",
+            "props": {
+                "country": "Украина",
+                "city": "Киев",
+                "street": "Могилевского",
+                "number":"26/20",
+                "building":"1",
+                "level":"5",
+                "office":"507",
+                "phone":"0671325434"
+            }
+        },
+        {
+            "id" : "aa3b2efd-bc56-4725-b397-9e8249bebf5a2",
+            "globalType" : "location",
+            "organizationId" : "a6667976-bafe-4ba3-96ee-2c897648c593",
+            "props": {
+                "country": "Украина",
+                "city": "Киев",
+                "street": "Могилевского",
+                "number":"26/20",
+                "building":"1",
+                "level":"5",
+                "office":"507",
+                "phone":"0671325434"
+            }
+        },
+        {
+            "id" : "aa3b2efd-bc56-4725-b397-9e8249bebf5a13",
+            "globalType" : "location",
+            "organizationId" : "a6667976-bafe-4ba3-96ee-2c897648c593",
+            "props": {
+                "country": "Украина",
+                "city": "Киев",
+                "street": "Могилевского",
+                "number":"26/20",
+                "building":"1",
+                "level":"5",
+                "office":"507",
+                "phone":"0671325434"
+            }
+        },
+        {
+            "id" : "aa3b2efd-bc56-4725-b397-9e8249bebf5a14",
+            "globalType" : "location",
+            "organizationId" : "a6667976-bafe-4ba3-96ee-2c897648c593",
+            "props": {
+                "country": "Украина",
+                "city": "Киев",
+                "street": "Могилевского",
+                "number":"26/20",
+                "building":"1",
+                "level":"5",
+                "office":"507",
+                "phone":"0671325434"
+            }
+        },
+        {
+            "id" : "aa3b2efd-bc56-4725-b397-9e8249bebf5a15",
+            "globalType" : "location",
+            "organizationId" : "a6667976-bafe-4ba3-96ee-2c897648c593",
+            "props": {
+                "country": "Украина",
+                "city": "Киев",
+                "street": "Могилевского",
+                "number":"26/20",
+                "building":"1",
+                "level":"5",
+                "office":"507",
+                "phone":"0671325434"
+            }
+        },
+        {
+            "id" : "aa3b2efd-bc56-4725-b397-9e8249bebf5a16",
+            "globalType" : "location",
+            "organizationId" : "a6667976-bafe-4ba3-96ee-2c897648c593",
+            "props": {
+                "country": "Украина",
+                "city": "Киев",
+                "street": "Могилевского",
+                "number":"26/20",
+                "building":"1",
+                "level":"5",
+                "office":"507",
+                "phone":"0671325434"
+            }
+        },
+        {
+            "id" : "aa3b2efd-bc56-4725-b397-9e8249bebf5a17",
+            "globalType" : "location",
+            "organizationId" : "a6667976-bafe-4ba3-96ee-2c897648c593",
+            "props": {
+                "country": "Украина",
+                "city": "Киев",
+                "street": "Могилевского",
+                "number":"26/20",
+                "building":"1",
+                "level":"5",
+                "office":"507",
+                "phone":"0671325434"
+            }
+        },
+        {
+            "id" : "aa3b2efd-bc56-4725-b397-9e8249bebf5a18",
+            "globalType" : "location",
+            "organizationId" : "a6667976-bafe-4ba3-96ee-2c897648c593",
+            "props": {
+                "country": "Украина",
+                "city": "Киев",
+                "street": "Могилевского",
+                "number":"26/20",
+                "building":"1",
+                "level":"5",
+                "office":"507",
+                "phone":"0671325434"
+            }
+        },
+        {
+            "id" : "aa3b2efd-bc56-4725-b397-9e8249bebf5a19",
+            "globalType" : "location",
+            "organizationId" : "a6667976-bafe-4ba3-96ee-2c897648c593",
+            "props": {
+                "country": "Украина",
+                "city": "Киев",
+                "street": "Могилевского",
+                "number":"26/20",
+                "building":"1",
+                "level":"5",
+                "office":"507",
+                "phone":"0671325434"
+            }
+        },
+        {
+            "id" : "aa3b2efd-bc56-4725-b397-9e8249bebf5a110",
+            "globalType" : "location",
+            "organizationId" : "a6667976-bafe-4ba3-96ee-2c897648c593",
+            "props": {
+                "country": "Украина",
+                "city": "Киев",
+                "street": "Могилевского",
+                "number":"26/20",
+                "building":"1",
+                "level":"5",
+                "office":"507",
+                "phone":"0671325434"
+            }
+        },
+        {
+            "id" : "aa3b2efd-bc56-4725-b397-9e8249bebf5a111",
+            "globalType" : "location",
+            "organizationId" : "a6667976-bafe-4ba3-96ee-2c897648c593",
+            "props": {
+                "country": "Украина",
+                "city": "Киев",
+                "street": "Могилевского",
+                "number":"26/20",
+                "building":"1",
+                "level":"5",
+                "office":"507",
+                "phone":"0671325434"
+            }
+        },
+        {
+            "id" : "aa3b2efd-bc56-4725-b397-9e8249bebf5a112",
+            "globalType" : "location",
+            "organizationId" : "a6667976-bafe-4ba3-96ee-2c897648c593",
+            "props": {
+                "country": "Украина",
+                "city": "Киев",
+                "street": "Могилевского",
+                "number":"26/20",
+                "building":"1",
+                "level":"5",
+                "office":"507",
+                "phone":"0671325434"
+            }
+        },
+        {
+            "id" : "aa3b2efd-bc56-4725-b397-9e8249bebf5a113",
+            "globalType" : "location",
+            "organizationId" : "a6667976-bafe-4ba3-96ee-2c897648c593",
+            "props": {
+                "country": "Украина",
+                "city": "Киев",
+                "street": "Могилевского",
+                "number":"26/20",
+                "building":"1",
+                "level":"5",
+                "office":"507",
+                "phone":"0671325434"
+            }
+        },
+        {
+            "id" : "aa3b2efd-bc56-4725-b397-9e8249bebf5a114",
+            "globalType" : "location",
+            "organizationId" : "a6667976-bafe-4ba3-96ee-2c897648c593",
+            "props": {
+                "country": "Украина",
+                "city": "Киев",
+                "street": "Могилевского",
+                "number":"26/20",
+                "building":"1",
+                "level":"5",
+                "office":"507",
+                "phone":"0671325434"
+            }
+        },
+        {
+            "id" : "aa3b2efd-bc56-4725-b397-9e8249bebf5a115",
+            "globalType" : "location",
+            "organizationId" : "a6667976-bafe-4ba3-96ee-2c897648c593",
+            "props": {
+                "country": "Украина",
+                "city": "Киев",
+                "street": "Могилевского",
+                "number":"26/20",
+                "building":"1",
+                "level":"5",
+                "office":"507",
+                "phone":"0671325434"
+            }
+        },
+        {
+            "id" : "aa3b2efd-bc56-4725-b397-9e8249bebf5a116",
+            "globalType" : "location",
+            "organizationId" : "a6667976-bafe-4ba3-96ee-2c897648c593",
+            "props": {
+                "country": "Украина",
+                "city": "Киев",
+                "street": "Могилевского",
+                "number":"26/20",
+                "building":"1",
+                "level":"5",
+                "office":"507",
+                "phone":"0671325434"
+            }
+        },
+        {
+            "id" : "aa3b2efd-bc56-4725-b397-9e8249bebf5a117",
+            "globalType" : "location",
+            "organizationId" : "a6667976-bafe-4ba3-96ee-2c897648c593",
+            "props": {
+                "country": "Украина",
+                "city": "Киев",
+                "street": "Могилевского",
+                "number":"26/20",
+                "building":"1",
+                "level":"5",
+                "office":"507",
+                "phone":"0671325434"
+            }
+        },
+        {
+            "id" : "aa3b2efd-bc56-4725-b397-9e8249bebf5a118",
+            "globalType" : "location",
+            "organizationId" : "a6667976-bafe-4ba3-96ee-2c897648c593",
+            "props": {
+                "country": "Украина",
+                "city": "Киев",
+                "street": "Могилевского",
+                "number":"26/20",
+                "building":"1",
+                "level":"5",
+                "office":"507",
+                "phone":"0671325434"
+            }
+        },
+        {
+            "id" : "aa3b2efd-bc56-4725-b397-9e8249bebf5a119",
+            "globalType" : "location",
+            "organizationId" : "a6667976-bafe-4ba3-96ee-2c897648c593",
+            "props": {
+                "country": "Украина",
+                "city": "Киев",
+                "street": "Могилевского",
+                "number":"26/20",
+                "building":"1",
+                "level":"5",
+                "office":"507",
+                "phone":"0671325434"
+            }
+        },
+        {
+            "id" : "aa3b2efd-bc56-4725-b397-9e8249bebf5a120",
+            "globalType" : "location",
+            "organizationId" : "a6667976-bafe-4ba3-96ee-2c897648c593",
+            "props": {
+                "country": "Украина",
+                "city": "Киев",
+                "street": "Могилевского",
+                "number":"26/20",
+                "building":"1",
+                "level":"5",
+                "office":"507",
+                "phone":"0671325434"
+            }
+        },
+        {
+            "id" : "aa3b2efd-bc56-4725-b397-9e8249bebf5a121",
+            "globalType" : "location",
+            "organizationId" : "a6667976-bafe-4ba3-96ee-2c897648c593",
+            "props": {
+                "country": "Украина",
+                "city": "Киев",
+                "street": "Могилевского",
+                "number":"26/20",
+                "building":"1",
+                "level":"5",
+                "office":"507",
+                "phone":"0671325434"
+            }
+        },
+        {
+            "id" : "aa3b2efd-bc56-4725-b397-9e8249bebf5a122",
+            "globalType" : "location",
+            "organizationId" : "a6667976-bafe-4ba3-96ee-2c897648c593",
+            "props": {
+                "country": "Украина",
+                "city": "Киев",
+                "street": "Могилевского",
+                "number":"26/20",
+                "building":"1",
+                "level":"5",
+                "office":"507",
+                "phone":"0671325434"
+            }
+        },
+        {
+            "id" : "aa3b2efd-bc56-4725-b397-9e8249bebf5a123",
+            "globalType" : "location",
+            "organizationId" : "a6667976-bafe-4ba3-96ee-2c897648c593",
+            "props": {
+                "country": "Украина",
+                "city": "Киев",
+                "street": "Могилевского",
+                "number":"26/20",
+                "building":"1",
+                "level":"5",
+                "office":"507",
+                "phone":"0671325434"
+            }
+        },
+        {
+            "id" : "aa3b2efd-bc56-4725-b397-9e8249bebf5a124",
+            "globalType" : "location",
+            "organizationId" : "a6667976-bafe-4ba3-96ee-2c897648c593",
+            "props": {
+                "country": "Украина",
+                "city": "Киев",
+                "street": "Могилевского",
+                "number":"26/20",
+                "building":"1",
+                "level":"5",
+                "office":"507",
+                "phone":"0671325434"
+            }
+        },
+        {
+            "id" : "aa3b2efd-bc56-4725-b397-9e8249bebf5a125",
+            "globalType" : "location",
+            "organizationId" : "a6667976-bafe-4ba3-96ee-2c897648c593",
+            "props": {
+                "country": "Украина",
+                "city": "Киев",
+                "street": "Могилевского",
+                "number":"26/20",
+                "building":"1",
+                "level":"5",
+                "office":"507",
+                "phone":"0671325434"
+            }
+        }
+    ],
+    "renters": [
+        {
+            "id" : "07451bc0-a4e0-4e09-9cc6-4c4027789c8e1",
+            "globalType" : "renter",
+            "organizationId" : "13bdf4f3-d407-49ef-9d24-da6c289d68c5",
+            "props": {
+                "company": "Фокстрот",
+                "responsible": "Артем Могилевский",
+                "fullName": "Артем Павлович Могилевский",
+                "email":"artem@foxtrot.com",
+                "phone":"0671325434"
+            }
+        },
+        {
+            "id" : "07451bc0-a4e0-4e09-9cc6-4c4027789c8e2",
+            "globalType" : "renter",
+            "organizationId" : "13bdf4f3-d407-49ef-9d24-da6c289d68c5",
+            "props": {
+                "company": "Фокстрот",
+                "responsible": "Артем Могилевский",
+                "fullName": "Артем Павлович Могилевский",
+                "email":"artem@foxtrot.com",
+                "phone":"0671325434"
+            }
+        },{
+            "id" : "07451bc0-a4e0-4e09-9cc6-4c4027789c8e3",
+            "globalType" : "renter",
+            "organizationId" : "13bdf4f3-d407-49ef-9d24-da6c289d68c5",
+            "props": {
+                "company": "Фокстрот",
+                "responsible": "Артем Могилевский",
+                "fullName": "Артем Павлович Могилевский",
+                "email":"artem@foxtrot.com",
+                "phone":"0671325434"
+            }
+        },{
+            "id" : "07451bc0-a4e0-4e09-9cc6-4c4027789c8e4",
+            "globalType" : "renter",
+            "organizationId" : "13bdf4f3-d407-49ef-9d24-da6c289d68c5",
+            "props": {
+                "company": "Фокстрот",
+                "responsible": "Артем Могилевский",
+                "fullName": "Артем Павлович Могилевский",
+                "email":"artem@foxtrot.com",
+                "phone":"0671325434"
+            }
+        },{
+            "id" : "07451bc0-a4e0-4e09-9cc6-4c4027789c8e5",
+            "globalType" : "renter",
+            "organizationId" : "13bdf4f3-d407-49ef-9d24-da6c289d68c5",
+            "props": {
+                "company": "Фокстрот",
+                "responsible": "Артем Могилевский",
+                "fullName": "Артем Павлович Могилевский",
+                "email":"artem@foxtrot.com",
+                "phone":"0671325434"
+            }
+        },{
+            "id" : "07451bc0-a4e0-4e09-9cc6-4c4027789c8e6",
+            "globalType" : "renter",
+            "organizationId" : "13bdf4f3-d407-49ef-9d24-da6c289d68c5",
+            "props": {
+                "company": "Фокстрот",
+                "responsible": "Артем Могилевский",
+                "fullName": "Артем Павлович Могилевский",
+                "email":"artem@foxtrot.com",
+                "phone":"0671325434"
+            }
+        },{
+            "id" : "07451bc0-a4e0-4e09-9cc6-4c4027789c8e7",
+            "globalType" : "renter",
+            "organizationId" : "13bdf4f3-d407-49ef-9d24-da6c289d68c5",
+            "props": {
+                "company": "Фокстрот",
+                "responsible": "Артем Могилевский",
+                "fullName": "Артем Павлович Могилевский",
+                "email":"artem@foxtrot.com",
+                "phone":"0671325434"
+            }
+        },{
+            "id" : "07451bc0-a4e0-4e09-9cc6-4c4027789c8e8",
+            "globalType" : "renter",
+            "organizationId" : "13bdf4f3-d407-49ef-9d24-da6c289d68c5",
+            "props": {
+                "company": "Фокстрот",
+                "responsible": "Артем Могилевский",
+                "fullName": "Артем Павлович Могилевский",
+                "email":"artem@foxtrot.com",
+                "phone":"0671325434"
+            }
+        },{
+            "id" : "07451bc0-a4e0-4e09-9cc6-4c4027789c8e9",
+            "globalType" : "renter",
+            "organizationId" : "13bdf4f3-d407-49ef-9d24-da6c289d68c5",
+            "props": {
+                "company": "Фокстрот",
+                "responsible": "Артем Могилевский",
+                "fullName": "Артем Павлович Могилевский",
+                "email":"artem@foxtrot.com",
+                "phone":"0671325434"
+            }
+        },{
+            "id" : "07451bc0-a4e0-4e09-9cc6-4c4027789c8e10",
+            "globalType" : "renter",
+            "organizationId" : "13bdf4f3-d407-49ef-9d24-da6c289d68c5",
+            "props": {
+                "company": "Фокстрот",
+                "responsible": "Артем Могилевский",
+                "fullName": "Артем Павлович Могилевский",
+                "email":"artem@foxtrot.com",
+                "phone":"0671325434"
+            }
+        },{
+            "id" : "07451bc0-a4e0-4e09-9cc6-4c4027789c8e11",
+            "globalType" : "renter",
+            "organizationId" : "13bdf4f3-d407-49ef-9d24-da6c289d68c5",
+            "props": {
+                "company": "Фокстрот",
+                "responsible": "Артем Могилевский",
+                "fullName": "Артем Павлович Могилевский",
+                "email":"artem@foxtrot.com",
+                "phone":"0671325434"
+            }
+        },{
+            "id" : "07451bc0-a4e0-4e09-9cc6-4c4027789c8e12",
+            "globalType" : "renter",
+            "organizationId" : "13bdf4f3-d407-49ef-9d24-da6c289d68c5",
+            "props": {
+                "company": "Фокстрот",
+                "responsible": "Артем Могилевский",
+                "fullName": "Артем Павлович Могилевский",
+                "email":"artem@foxtrot.com",
+                "phone":"0671325434"
+            }
+        },{
+            "id" : "07451bc0-a4e0-4e09-9cc6-4c4027789c8e13",
+            "globalType" : "renter",
+            "organizationId" : "13bdf4f3-d407-49ef-9d24-da6c289d68c5",
+            "props": {
+                "company": "Фокстрот",
+                "responsible": "Артем Могилевский",
+                "fullName": "Артем Павлович Могилевский",
+                "email":"artem@foxtrot.com",
+                "phone":"0671325434"
+            }
+        },{
+            "id" : "07451bc0-a4e0-4e09-9cc6-4c4027789c8e14",
+            "globalType" : "renter",
+            "organizationId" : "13bdf4f3-d407-49ef-9d24-da6c289d68c5",
+            "props": {
+                "company": "Фокстрот",
+                "responsible": "Артем Могилевский",
+                "fullName": "Артем Павлович Могилевский",
+                "email":"artem@foxtrot.com",
+                "phone":"0671325434"
+            }
+        },{
+            "id" : "07451bc0-a4e0-4e09-9cc6-4c4027789c8e15",
+            "globalType" : "renter",
+            "organizationId" : "13bdf4f3-d407-49ef-9d24-da6c289d68c5",
+            "props": {
+                "company": "Фокстрот",
+                "responsible": "Артем Могилевский",
+                "fullName": "Артем Павлович Могилевский",
+                "email":"artem@foxtrot.com",
+                "phone":"0671325434"
+            }
+        },{
+            "id" : "07451bc0-a4e0-4e09-9cc6-4c4027789c8e16",
+            "globalType" : "renter",
+            "organizationId" : "13bdf4f3-d407-49ef-9d24-da6c289d68c5",
+            "props": {
+                "company": "Фокстрот",
+                "responsible": "Артем Могилевский",
+                "fullName": "Артем Павлович Могилевский",
+                "email":"artem@foxtrot.com",
+                "phone":"0671325434"
+            }
+        }
+    ]
+}
